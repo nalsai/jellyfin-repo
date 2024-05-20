@@ -12,8 +12,8 @@
                 "changelog": "changelog\n",
                 "targetAbi": "10.9.2.0",
                 "sourceUrl": "https://github.com/nalsai/jellyfin-youtube-metadata-plugin/releases/download/v2024.520.1311.58/youtube-metadata-jellyfin.zip",
-                "checksum": "1896e3dfa58a34007b19a057e8524d6e",
-                "timestamp": "2024-05-20T13:14:49Z"
+                "checksum": "cfbd1dff1e7a2c67990f50045f05842b",
+                "timestamp": "2024-05-20T13:23:45Z"
             },
             {
                 "version": "2024.520.1203.2",
